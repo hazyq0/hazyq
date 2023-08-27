@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/ihaziq/ihaziq/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -15,7 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/	31cyrt5mjr63cqv7yslxbl5ooj6e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
