@@ -1,25 +1,15 @@
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
+# 💫 About Me:
+🔭 I’m currently working on RollCallplus, a smart way to take attendence.<br>👯 I’m looking to collaborate on projects revolving around<br>Linux administration, and shell scripting (Bash, Python).<br>🤝 I’m looking for help with <br>🌱 I’m currently learning  C/C++ in Linux operating environment and<br>Linux kernel internals.<br>💬 Ask me about DSA<br>
 
-</div>
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hazyq0&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hazyq0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazyq0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohdhaziqullah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=hazyq0&icon=0&color=11)](https://visitcount.itsvg.in)
 
-###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31cyrt5mjr63cqv7yslxbl5ooj6e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cyrt5mjr63cqv7yslxbl5ooj6e" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
