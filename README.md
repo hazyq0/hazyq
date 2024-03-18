@@ -1,5 +1,5 @@
 # About Me:
-- I’m currently working on RollCallplus, a smart way to take attendence.<br>👯 I’m looking to collaborate on projects revolving around Linux administration, and shell scripting (Bash, Python).<br>🌱 I’m currently learning  C/C++ in Linux operating environment and Linux kernel internals.<br>💬 Ask me about DSA (1700 rated on CodeChef, 300+ problems and 60+ on LeetCode)<br>
+- I’m currently working on RollCallplus, a smart way to take attendence.<br>- I’m looking to collaborate on projects revolving around Linux administration, and shell scripting (Bash, Python).<br>- I’m currently learning  C/C++ in Linux operating environment and Linux kernel internals.<br>- Ask me about DSA (1700 rated on CodeChef, 300+ problems and 60+ on LeetCode)<br>
 
 
 # 💻 Tech Stack:
